@@ -68,4 +68,5 @@ $$
 \end{matrix}
 \end{equation} 
 $$
-$\theta_1:\:\:\:\:\:\:\:\:\:=100$
+$\theta_1:\:=100$
+$\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
