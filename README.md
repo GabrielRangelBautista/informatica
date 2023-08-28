@@ -69,6 +69,9 @@ $$
 \end{equation} 
 $$
 $\theta_1:\:=100$
+
 $\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
+
 $\sum_{i=1}^nxi=\sum_.^.xi$
+
 $\sum_{i=1}^5i=1+2+3+4+5=15$
