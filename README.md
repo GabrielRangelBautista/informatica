@@ -68,4 +68,4 @@ $$
 \end{matrix}
 \end{equation} 
 $$
-$\theta_1\:=\:100$
+$\theta_1\:=\:10000000$
