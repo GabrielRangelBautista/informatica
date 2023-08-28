@@ -3,6 +3,7 @@
 <img src="https://github.com/GabrielRangelBautista/informatica/blob/main/imagenes/images.jpg" alt="devil_may_cry" width="100%"/>
 
 otra imagen:
+<img src="https://github.com/GabrielRangelBautista/informatica/blob/main/imagenes/840_560.jpeg" alt="doom" width="100%"/>
 
 un video:
 
